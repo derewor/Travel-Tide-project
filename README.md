@@ -23,7 +23,7 @@ The project has a significance of identifying the specific behaviour of customer
 
 
 ## Screenshoots
-https://drive.google.com/file/d/1QaUdeENnKR1IZLDIYr_-Ioc3K5_pm1nI/view?usp=share_link
+![TraveTide_Customer_Segmentation_project](https://github.com/derewor/TravelTide_Customer_Segmentation_project/blob/main/Segments_3d.png)
 
 ## Tools
 Google colab, 
