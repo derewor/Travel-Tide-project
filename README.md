@@ -78,4 +78,5 @@ To reproduce the code, run the googlecolab notebook file TravelTide_project_fina
 ## Authors
 
 - [@derewor](https://github.com/derewor/TravelTide_Customer_Segmentation_projecte)
+- https://www.linkedin.com/in/dereje-worku-mekonnen-a8345217/
 
