@@ -52,6 +52,7 @@ To reproduce the code, run the googlecolab notebook file TravelTide_project_fina
 - Customer_segments/: Contianins the lists of all customers segmented based on their behaviout using the gaussianMixture model.
 - Perk_allocation_per_segment/: An excel file that contains the analysis for perk allocation. The unique behaviour of each segment is described.
 - TravelTide_project/: a powerpoint file that contains the major findings of the analysis for presentation to stakeholders.
+- README.md/: file that outlines the project
 ## Data Analysis and Results
 ### Libraries
 - Libraries required for analysis such as numpy, pandas, GaussianMixture etc have been imported.
