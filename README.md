@@ -48,10 +48,12 @@ To reproduce the code, run the googlecolab notebook file TravelTide_project_fina
 
 
 ## Project Structure
+- Data/: A folder that contains the rawdata used for the analysis. It also contains a processed data based on the devised metrics.
 - Notebook/: A googlecolab notebook with an active code.
-- Customer_segments/: Contianins the lists of all customers segmented based on their behaviout using the gaussianMixture model.
-- Perk_allocation_per_segment/: An excel file that contains the analysis for perk allocation. The unique behaviour of each segment is described.
-- TravelTide_project/: a powerpoint file that contains the major findings of the analysis for presentation to stakeholders.
+- Results/: Contianins the lists of all customers segmented based on their behaviour using the GaussianMixture model.
+            Furthermore, it contains an excel file that contains the analysis for perk allocation. The unique behaviour of each segment is described.
+- Docs/: a powerpoint file that contains the major findings of the analysis for presentation to stakeholders. Furthermore, it contians an exective summary of the whole   
+ analysis.
 - README.md/: file that outlines the project
 ## Data Analysis and Results
 ### Libraries
